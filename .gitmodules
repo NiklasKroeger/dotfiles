@@ -1,0 +1,9 @@
+[submodule "nvim/.local/share/nvim/plugged/clang_complete"]
+	path = nvim/.local/share/nvim/plugged/clang_complete
+	url = git@github.com:Rip-Rip/clang_complete.git
+[submodule "nvim/.local/share/nvim/plugged/deoplete.nvim"]
+	path = nvim/.local/share/nvim/plugged/deoplete.nvim
+	url = git@github.com:Shougo/deoplete.nvim.git
+[submodule "nvim/.local/share/nvim/plugged/vim-sensible"]
+	path = nvim/.local/share/nvim/plugged/vim-sensible
+	url = git@github.com:tpope/vim-sensible.git
